@@ -1,4 +1,4 @@
-# olcesium_test
+# ol-cesium_test
 
 Checkout the repository.
 
